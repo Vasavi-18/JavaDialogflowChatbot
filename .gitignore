@@ -1,0 +1,20 @@
+# Ignore compiled output
+/target/
+
+# Ignore IntelliJ IDEA project files (if you're using IntelliJ)
+/.idea/
+/*.iml
+
+# Ignore Eclipse project files (if applicable)
+/.project
+/.classpath
+/.settings/
+
+# Ignore service account JSON (credentials)
+src/main/resources/service-account.json
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+src/main/resources/service-account.json
+/target/

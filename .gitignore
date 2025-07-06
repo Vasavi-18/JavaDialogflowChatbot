@@ -18,3 +18,7 @@ src/main/resources/service-account.json
 Thumbs.db
 src/main/resources/service-account.json
 /target/
+
+# Ignore secrets and build output
+src/main/resources/service-account.json
+/target/

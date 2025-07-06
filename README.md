@@ -43,7 +43,7 @@ JavaDialogflowChatbot/
 
 ## 🔐 Important Note
 
-> The `service-account.json` (Google Cloud credentials) is **excluded** from version control for security reasons. You must provide your own to run this project.
+> The `service-account.json` (Google Cloud credentials) is **excluded** from version control for security reasons.
 
 ---
 
